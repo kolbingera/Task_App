@@ -1,7 +1,47 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\taskcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:taskcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\shared\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:shared\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\task_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:task_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|c:\\users\\kolbingera\\desktop\\task_app\\task_app\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20B36CBB-E88A-4EFE-AF8C-014F58AFCDE1}|Task_App.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kolbingera\\AppData\\Local\\Temp\\.vsdbgsrc\\3adaeae50d39dc7423a3f8e9deff6d632d6036ab37d8b32baf8dc2c4ada3ecc4\\Renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +58,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskContextInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\TaskContextInitializer.cs",
+              "RelativeDocumentMoniker": "TaskContextInitializer.cs",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\TaskContextInitializer.cs",
+              "RelativeToolTip": "TaskContextInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:02:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T13:59:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Shared\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Shared\\Models\\Tasks.cs",
+              "RelativeToolTip": "Shared\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:56:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task_App",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Task_App.csproj",
+              "RelativeDocumentMoniker": "Task_App.csproj",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Task_App.csproj",
+              "RelativeToolTip": "Task_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T13:47:45.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\TaskContext.cs",
+              "RelativeDocumentMoniker": "TaskContext.cs",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\TaskContext.cs",
+              "RelativeToolTip": "TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:53:48.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:14:52.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T13:07:22.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\AppData\\Local\\Temp\\.vsdbgsrc\\3adaeae50d39dc7423a3f8e9deff6d632d6036ab37d8b32baf8dc2c4ada3ecc4\\Renderer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3adaeae50d39dc7423a3f8e9deff6d632d6036ab37d8b32baf8dc2c4ada3ecc4\\Renderer.cs",
+              "ToolTip": "C:\\Users\\kolbingera\\AppData\\Local\\Temp\\.vsdbgsrc\\3adaeae50d39dc7423a3f8e9deff6d632d6036ab37d8b32baf8dc2c4ada3ecc4\\Renderer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3adaeae50d39dc7423a3f8e9deff6d632d6036ab37d8b32baf8dc2c4ada3ecc4\\Renderer.cs [Read Only]",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAowKcBAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:27:21.849Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T11:59:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\kolbingera\\Desktop\\Task_App\\Task_App\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T11:58:23.688Z",
+              "EditorCaption": ""
             }
           ]
         }
